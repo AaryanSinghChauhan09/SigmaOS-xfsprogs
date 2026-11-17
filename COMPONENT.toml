@@ -3,7 +3,7 @@ name = "SigmaOS-xfsprogs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "xfsprogs component"
+description = "SigmaOS SigmaOS-xfsprogs component"
 upstream = []
 
 [contract]
